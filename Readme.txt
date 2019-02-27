@@ -1,5 +1,4 @@
-**Kurzzusammenfassung**
-
+<b>**Kurzzusammenfassung**</b>
 Aufbau des Kurses
 
 1) Willkommen
