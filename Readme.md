@@ -44,3 +44,10 @@ GitHub ist eine Plattform um Code zu teilen und zu aktualisieren.
   
 ## **6) Zusammenfassung**
   - Zusammenfassung
+
+
+
+
+# Software-Exe
+
+Die Datei ist zu groß. Daher in der Cloud runterladen.
