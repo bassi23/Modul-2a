@@ -1,3 +1,12 @@
+# Wie ist GitHub aufgebaut?
+
+GitHub ist eine Plattform um Code zu teilen und zu aktualisieren.
+
+
+
+
+
+
 # **Aufbau des Kurses**
 
 ## **1) Willkommen**
