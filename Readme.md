@@ -1,7 +1,7 @@
 **Kurzzusammenfassung**
 
 
-**Aufbau des Kurses**
+#**Aufbau des Kurses**
 
 **1) Willkommen**
   - Sensoren im Smartphone
