@@ -1,6 +1,3 @@
-**Kurzzusammenfassung**
-
-
 # **Aufbau des Kurses**
 
 ## **1) Willkommen**
