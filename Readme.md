@@ -51,3 +51,12 @@ GitHub ist eine Plattform um Code zu teilen und zu aktualisieren.
 # Software-Exe
 
 Die Datei ist zu groß. Daher in der Cloud runterladen.
+
+
+
+#To Do
+
+| Folie  | Was | Status
+| ------------- | ------------- | ------------- |
+| 15 | Radarkontrolle  |<p style='color:red'>This is some red text.</p>
+| 19  | Vergrößern  |<p style='color:red'>This is some red text.</p>
