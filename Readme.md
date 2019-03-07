@@ -58,5 +58,33 @@ Die Datei ist zu groß. Daher in der Cloud runterladen.
 
 | Folie  | Was | Status
 | ------------- | ------------- | ------------- |
-| 15 | Radarkontrolle  | <p style='color:red'>This is some red text.</p>
-| 19  | Vergrößern  |<p style='color:red'>This is some red text.</p>
+| 15 | Rechtschreibfehler  | []
+| 19  | Vergrößern  | []
+| 21 | Rechtschreibfehler  | []
+| 23  | Umformulierung  | []
+| 29 | Füllstand --> Flüssigkeitsthermometer  | []
+| 35  | Rechtschreibfehler  | []
+| 51 | Umformulierungen  | []
+| 53  | Umformulierung  | []
+| 59 | Rechtschreibfehler  | []
+| 64  | Rechtschreibfehler  | []
+| 66 | Textfeldgröße  | []
+| allgemein  | Punkt am Satzende  | []
+| 84 | mittlere  | []
+| 85 | Achse/Weiter button  | []
+| 95  | Umformulierung  | []| 
+| 101  | Bild  | []
+| 102 | links Modell - rechts unserer Aufbau  | []
+| 123 | Rechtschreibfehler  | []
+| 125| Rechtschreibfehler  | []
+| 127 | Umformulierung  | []
+| 130 | Umformulierung  | []
+| 133  | Umformulierung  | []
+| 135  | Button: Animation starten  | []
+| 136  | Umstrukturierung der Folie  | []
+| 137  | Indizes  | []
+| 138  | Rechtschreibfehler  | []
+| 6*  | Rechtschreibfehler  | []
+| 9*  | Rechtschreibfehler  | []
+| 10*  | Rechtschreibfehler  | []
+| 55* | Rechtschreibfehler  | []
